@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Algorithms", "LeetCode.Algorithms\LeetCode.Algorithms.csproj", "{598DBAC5-34D8-44C8-BA9B-344BCE20095C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DynamicProgramming.Tests", "LeetCode.DynamicProgramming.Tests\LeetCode.DynamicProgramming.Tests.csproj", "{C72E0A5C-D74C-454A-BC61-5E710A6BF1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DynamicProgramming", "LeetCode.DynamicProgramming\LeetCode.DynamicProgramming.csproj", "{94D67DF2-02B7-4BE9-AF7E-0EA618DB7DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Algorithms.Tests", "LeetCode.Algorithms.Tests\LeetCode.Algorithms.Tests.csproj", "{BFE117FC-77A5-4C04-B4B1-F0D6C1311C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598DBAC5-34D8-44C8-BA9B-344BCE20095C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598DBAC5-34D8-44C8-BA9B-344BCE20095C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598DBAC5-34D8-44C8-BA9B-344BCE20095C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598DBAC5-34D8-44C8-BA9B-344BCE20095C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72E0A5C-D74C-454A-BC61-5E710A6BF1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72E0A5C-D74C-454A-BC61-5E710A6BF1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72E0A5C-D74C-454A-BC61-5E710A6BF1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72E0A5C-D74C-454A-BC61-5E710A6BF1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D67DF2-02B7-4BE9-AF7E-0EA618DB7DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D67DF2-02B7-4BE9-AF7E-0EA618DB7DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D67DF2-02B7-4BE9-AF7E-0EA618DB7DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D67DF2-02B7-4BE9-AF7E-0EA618DB7DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE117FC-77A5-4C04-B4B1-F0D6C1311C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE117FC-77A5-4C04-B4B1-F0D6C1311C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE117FC-77A5-4C04-B4B1-F0D6C1311C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE117FC-77A5-4C04-B4B1-F0D6C1311C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
